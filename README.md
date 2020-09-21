@@ -1,4 +1,4 @@
-Revelant code: './src/main.js'
+Revelant code is in `./src/main.js`
 
 To run:
 ```sh
